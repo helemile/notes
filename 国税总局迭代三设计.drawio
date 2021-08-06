@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T08:10:52.488Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="JBkZZGu8z5_sTGaCtPwo" version="14.8.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-08-06T08:16:41.480Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="1MDhIXo0SHfJHgznVcW_" version="14.8.1" type="github" pages="6">
   <diagram id="mX0ffbovVxFb7t6NYa2V" name="表结构新增">
     <mxGraphModel dx="1185" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
         <mxCell id="RZvOurY1Pzx2Y7Y2g1sG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="N0FcCdIXHvV1KCsFMpFl-1" source="RZvOurY1Pzx2Y7Y2g1sG-0" target="N0FcCdIXHvV1KCsFMpFl-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RZvOurY1Pzx2Y7Y2g1sG-0" value="若提示环境不存在，则新增环境" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="N0FcCdIXHvV1KCsFMpFl-1">
+        <mxCell id="RZvOurY1Pzx2Y7Y2g1sG-0" value="若API网关提示环境不存在，则新增环境" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="N0FcCdIXHvV1KCsFMpFl-1">
           <mxGeometry x="190" y="670" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
