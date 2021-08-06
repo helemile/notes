@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T07:49:53.310Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="-X_0fiRLTqfSpNUu-LfJ" version="14.8.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-08-06T07:50:15.270Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="5a5anYR_WNZnDptJknSF" version="14.8.1" type="github" pages="6">
   <diagram id="sb_V-hcNXjzHB9yhCUq3" name="AD与API服务的底层ip关系">
     <mxGraphModel dx="981" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gvdY4t5SKWCVRqJ0-kTb-3" value="vip1-访问API服务的统一ip地址&lt;br&gt;在门户页面上统一设置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="525" width="150" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="gvdY4t5SKWCVRqJ0-kTb-5" value="" style="endArrow=classic;html=1;fontSize=14;" edge="1" parent="1" source="2CTaEZxf2c3Y_vctXRp9-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="520" as="sourcePoint" />
@@ -67,9 +70,6 @@
             <mxPoint x="140" y="440" as="sourcePoint" />
             <mxPoint x="140" y="520" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gvdY4t5SKWCVRqJ0-kTb-3" value="vip1-访问API服务的统一ip地址&lt;br&gt;在门户页面上统一设置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
-          <mxGeometry x="60" y="525" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gvdY4t5SKWCVRqJ0-kTb-4" value="ip3-真实的服务ip地址&lt;br&gt;新增、修改服务页面填写" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
           <mxGeometry x="740" y="370" width="150" height="60" as="geometry" />
