@@ -1,1 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2021-08-08T12:32:56.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.9.2" etag="XKL1duRopdr18ZB-AXFh" type="github"><diagram id="x4pLMgn82ljKDyMF_MeN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-08T12:55:22.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="6EpBcTlJBE4jLuGJPtSs" version="14.9.2" type="github">
+  <diagram id="x4pLMgn82ljKDyMF_MeN" name="需求分析过程">
+    <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I8dW4knKpqOor04yfBJI-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="280" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="280" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="I8dW4knKpqOor04yfBJI-1" target="I8dW4knKpqOor04yfBJI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-1" value="1、初步需求分析" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="I8dW4knKpqOor04yfBJI-2" target="I8dW4knKpqOor04yfBJI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-2" value="2、需求讲解会" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-3" value="3、模块分配，成员熟悉模块需求" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="I8dW4knKpqOor04yfBJI-5" target="I8dW4knKpqOor04yfBJI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-5" value="5、需求反讲" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="I8dW4knKpqOor04yfBJI-6" target="I8dW4knKpqOor04yfBJI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-6" value="6、模块设计反讲" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-7" value="7、测试设计、案例评审" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-12" value="" style="endArrow=classic;html=1;edgeStyle=orthogonalEdgeStyle;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="430" as="sourcePoint" />
+            <mxPoint x="480" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="430" />
+              <mxPoint x="420" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-18" value="需求细化、&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;理解过程&amp;nbsp; &amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-19" value="需求沟通、&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;碰撞过程&amp;nbsp; &amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="610" y="150" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="I8dW4knKpqOor04yfBJI-21" target="I8dW4knKpqOor04yfBJI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8dW4knKpqOor04yfBJI-21" value="4、需求疑问解答" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
