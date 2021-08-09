@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T12:42:50.328Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="5-dSo14EhSKl4aviuW6b" version="14.8.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-08-09T12:43:25.596Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="P7wsRe1qnSpsKtH36e_V" version="14.8.1" type="github" pages="5">
   <diagram id="Vepcy5eFFjgHjCgZ-YPG" name="修改API服务流程">
     <mxGraphModel dx="2012" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,11 +305,11 @@
         </mxCell>
         <mxCell id="2CTaEZxf2c3Y_vctXRp9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;curved=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="400" as="sourcePoint" />
-            <mxPoint x="590" y="400" as="targetPoint" />
+            <mxPoint x="424.98" y="395.02" as="sourcePoint" />
+            <mxPoint x="594.98" y="395.02" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="370" />
-              <mxPoint x="590" y="370" />
+              <mxPoint x="424.98" y="365.02" />
+              <mxPoint x="594.98" y="365.02" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -331,10 +331,15 @@
         <mxCell id="gvdY4t5SKWCVRqJ0-kTb-6" value="&lt;b&gt;vip3-API服务的代理地址&lt;/b&gt;&lt;br&gt;每个API网关节点对应一个，在节点部署页面统一设置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
           <mxGeometry x="550" y="525" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gvdY4t5SKWCVRqJ0-kTb-7" value="" style="endArrow=classic;html=1;fontSize=14;" edge="1" parent="1">
+        <mxCell id="gvdY4t5SKWCVRqJ0-kTb-7" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2CTaEZxf2c3Y_vctXRp9-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="444" as="sourcePoint" />
+            <mxPoint x="510" y="440" as="sourcePoint" />
             <mxPoint x="600" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="400" />
+              <mxPoint x="530" y="500" />
+              <mxPoint x="600" y="500" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4p2jUjLq-HyqBc9vhkpr-1" value="vport1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
